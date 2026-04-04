@@ -9,11 +9,36 @@
 ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=🖖+Code+Lover;🔐+Security+Enthusiast;🌐+Web+Developer;🐛+Bug+Hunter;☕+Coffee+Addict)
 
-# Fayshihuang
-**Security Researcher | Exploit Developer | Penetration Tester**
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=9B59B6&center=true&vCenter=true&width=600&lines=WordPress+Security+Specialist;Custom+Exploit+Development;Python+%7C+PHP+%7C+Bash;Vulnerability+Assessment)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/🖖_Code_Lover-%234B0082?style=for-the-badge)
+![](https://img.shields.io/badge/🔐_Security_Enthusiast-%234B0082?style=for-the-badge)
+![](https://img.shields.io/badge/🌐_Web_Developer-%234B0082?style=for-the-badge)
+![](https://img.shields.io/badge/🐛_Bug_Hunter-%234B0082?style=for-the-badge)
+![](https://img.shields.io/badge/☕_Coffee_Addict-%234B0082?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -23,36 +48,28 @@
 
 Security researcher with hands-on experience in **web application penetration testing** and **exploit development**. I specialize in identifying critical vulnerabilities and creating proof-of-concepts in controlled laboratory environments.
 
-- 🔍 **Focus Areas:** WordPress CMS, Web App Security, Automation Testing
-- 🛠️ **Core Skills:** Exploit Development, Vulnerability Assessment, PoC Creation
-- 🎓 **Mission:** Help organizations identify security gaps before malicious actors do
+- {🔍} **Focus Areas:** WordPress CMS, Web App Security, Automation Testing
+- {🛠️}**Core Skills:** Exploit Development, Vulnerability Assessment, PoC Creation
+- {🎓} **Mission:** Help organizations identify security gaps before malicious actors do
 
 ---
 
-## 🧰 Technical Expertise
+---
+
+## 🌐 Find Me
 
 <div align="center">
 
-| Category | Technologies |
-|:---------|:-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Platforms** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
+[![GitHub](https://img.shields.io/badge/GitHub-6A0572?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fayshihuang)
+[![Telegram](https://img.shields.io/badge/Telegram-6A0572?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fayshihuang)
+[![Discord](https://img.shields.io/badge/Discord-6A0572?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/681117852769845301)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+<div align="center">
 
-### 🐍 WordPress Security Toolkit
-> *Multi-threaded security assessment framework for WordPress*
+> *not everyone deserves a seat at my table. Some are better on the floor*
 
-![Demo](https://via.placeholder.com/800x400?text=Demo+GIF+Here)
-
-```python
-# Automated vulnerability detection & exploitation
-- Mass registration endpoint testing
-- Plugin vulnerability scanner (MapSVG, etc.)
-- Session management with cookie persistence
+</div>
